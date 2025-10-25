@@ -1,0 +1,19 @@
+h1{color: rgba(21, 151, 140, 0.829);}
+h2{color: cornflowerblue;}
+h3{color: darkblue;}
+.descripcion{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+}
+.imagen{
+    border-width: 5px;
+    border-style:solid;
+}
+.imagen2{
+    border-width: 5px;
+    border-style:solid;
+}
+.lista{
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
