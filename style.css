@@ -1,6 +1,20 @@
-h1{color: rgba(21, 151, 140, 0.829);}
-h2{color: cornflowerblue;}
-h3{color: darkblue;}
+*{background-color: rgb(212, 181, 169);}
+
+h1{
+    color: rgba(21, 151, 140, 0.829);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+h2{
+    color: cornflowerblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h3{
+    color: darkblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 .descripcion{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: darkgreen;
@@ -13,7 +27,23 @@ h3{color: darkblue;}
     border-width: 5px;
     border-style:solid;
 }
-.lista{
+.enlace{
     color: darkcyan;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: fantasy
+}
+.lista{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  color: rgb(13, 13, 117);
+}
+.texto{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  color: rgb(13, 13, 117);
 }
